@@ -1,0 +1,4 @@
+Flexbox is a new tool (about 2-3 yrs ago) that helps distribute
+space within a container.
+
+...the Elements can be laid out in rows or columns.
